@@ -1,0 +1,7 @@
+C:\Users\danielmieleniewski\source\repos\SwithcStatements\SwithcStatements\obj\Debug\SwithcStatements.csprojAssemblyReference.cache
+C:\Users\danielmieleniewski\source\repos\SwithcStatements\SwithcStatements\obj\Debug\SwithcStatements.csproj.CoreCompileInputs.cache
+C:\Users\danielmieleniewski\source\repos\SwithcStatements\SwithcStatements\bin\Debug\SwithcStatements.exe.config
+C:\Users\danielmieleniewski\source\repos\SwithcStatements\SwithcStatements\bin\Debug\SwithcStatements.exe
+C:\Users\danielmieleniewski\source\repos\SwithcStatements\SwithcStatements\bin\Debug\SwithcStatements.pdb
+C:\Users\danielmieleniewski\source\repos\SwithcStatements\SwithcStatements\obj\Debug\SwithcStatements.exe
+C:\Users\danielmieleniewski\source\repos\SwithcStatements\SwithcStatements\obj\Debug\SwithcStatements.pdb
